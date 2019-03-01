@@ -1,0 +1,13 @@
+{
+  "id": "spreadsheets",
+  "name": "Google Sheets",
+  "version": "1.0.0",
+  "description": "Google Sheets",
+  "main": "index.js",
+  "author": "Giallo",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://docs.google.com/spreadsheets/u/0/",
+    "hasTeamID": false
+  }
+}

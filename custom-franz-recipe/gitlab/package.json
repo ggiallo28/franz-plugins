@@ -1,0 +1,13 @@
+{
+  "id": "gitlab",
+  "name": "GitLab",
+  "version": "1.0.0",
+  "description": "Pagerduty",
+  "main": "index.js",
+  "author": "Giallo",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://gitlab.com/",
+    "hasTeamID": false
+  }
+}

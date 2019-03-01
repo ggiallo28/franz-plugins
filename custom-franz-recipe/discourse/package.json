@@ -1,0 +1,13 @@
+{
+  "id": "discourse",
+  "name": "Discourse",
+  "version": "1.0.0",
+  "description": "Discourse",
+  "main": "index.js",
+  "author": "Giallo",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://discourse.xpeppers.com/",
+    "hasTeamID": false
+  }
+}

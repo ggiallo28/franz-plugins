@@ -1,0 +1,13 @@
+{
+  "id": "googledocs",
+  "name": "Google Docs",
+  "version": "1.0.0",
+  "description": "Google Docs",
+  "main": "index.js",
+  "author": "Giallo",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://docs.google.com/document/u/0/",
+    "hasTeamID": false
+  }
+}

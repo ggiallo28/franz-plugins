@@ -1,0 +1,13 @@
+{
+  "id": "freshdesk",
+  "name": "Freskdesk",
+  "version": "1.0.0",
+  "description": "Freskdesk",
+  "main": "index.js",
+  "author": "Giallo",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://xpeppersit.freshdesk.com/a/",
+    "hasTeamID": false
+  }
+}

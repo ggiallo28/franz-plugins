@@ -1,0 +1,13 @@
+{
+  "id": "lastpass",
+  "name": "LastPass",
+  "version": "1.0.0",
+  "description": "LastPass",
+  "main": "index.js",
+  "author": "Giallo",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.lastpass.com/it",
+    "hasTeamID": false
+  }
+}
