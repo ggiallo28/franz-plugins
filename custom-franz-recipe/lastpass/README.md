@@ -15,7 +15,7 @@ This recipe only works for Franz 5.X, get it now at http://meetfranz.com
 
 3. Create a `dev` folder if you have not already done so
 
-3. Unzip and copy the `google-docs` folder into the recipes dev directory
+3. Unzip and copy the `pagerduty` folder into the recipes dev directory
 
 4. Restart or reload Franz
 
