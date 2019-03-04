@@ -1,4 +1,4 @@
-# Google Docs for Franz
+# Google Sheets for Franz
 This is the Franz 5 Recipe for Bitbucket
 
 ## Requirements
