@@ -4,6 +4,18 @@
 ## How to install a recipe
 In Franz 5, recipes are now served via a central repository. Except for development purposes you don't need to manually install a recipe any longer.
 
+You can install it manually by following the instructions below.
+
+1. Download this recipe.
+2. Open the Franz Plugins folder on your machine:
+  * Mac: `~/Library/Application Support/Franz/recipes/dev/`
+  * Windows: `%appdata%/Franz/recipes/dev/`
+Create the `dev` folder if you don't have it yet.
+3. Unzip the zip file you have downloaded
+4. Copy the `recipe-franz-website-master` folder into the plugins dev directory
+4. Reload Franz
+5. Open Franz settings. Under 'available services' you will find a 'Development' section. Click on 'Website' and start configuring
+
 __To add a new service:__
 * Go to your Franz 5 App
 * Search & add the required service
